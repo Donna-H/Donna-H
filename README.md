@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋🏾, I'm Donna</h1>
+
+<p align="center"><img src="https://github.com/Donna-H/Donna-H/blob/main/banner-Donna-H.png" /></p>
+
+
 <h3 align="center">I am passionate about technology and helping empower people with digital services.</h3>
 
 - 💻My portfolio: [https://donnahussey.com/](https://donnahussey.com/)
@@ -6,7 +10,7 @@
 - 🎮Fun fact *I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.*
 
 <h3 align="left">Connect with me:</h3>
-
+Up
 - 💬 How to reach me: [https://linkedin.com/in/donnablu/](https://linkedin.com/in/donnablu/)
 
 
