@@ -10,9 +10,7 @@
 - 🎮Fun fact *I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.*
 
 <h3 align="left">Connect with me:</h3>
-Up
-- 💬 How to reach me: [https://linkedin.com/in/donnablu/](https://linkedin.com/in/donnablu/)
-
+- 💬 How to reach me: https://linkedin.com/in/donnablu/
 
 <p align="left">
 </p>
