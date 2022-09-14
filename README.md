@@ -9,6 +9,12 @@
 
 - 🎮Fun fact *I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.*
 
+<h3 align="left">Recent Projects:</h3>
+
+- Full Stack Code First Girls project <a href="https://cfg-full-stack-project.netlify.app/">click here</a> to view.
+
+- Full Stack Daily Quotes project <a href="https://daily-mindfulness-quotes.netlify.app/">click here</a> to view.
+
 <h3 align="left">Connect with me:</h3>
 - 💬 How to reach me: https://linkedin.com/in/donnablu/
 
