@@ -7,15 +7,15 @@
 
 - 💻My portfolio: [https://donnahussey.com/](https://donnahussey.com/)
 
-- 🎮Fun fact *I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.*
+- 🎮Fun fact <em>I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.</em>
 
 <h3 align="left">Recent Projects:</h3>
 
-- <strong>Full Stack</strong> Code First Girls project <a href="https://cfg-full-stack-project.netlify.app/">click here</a> to view.
+- <em>Full Stack ~</em> Code First Girls project <a href="https://cfg-full-stack-project.netlify.app/">click here</a> to view.
 
-- <strong>Full Stack</strong> Daily Quotes project <a href="https://daily-mindfulness-quotes.netlify.app/">click here</a> to view.
+- <em>Full Stack ~</em> Daily Quotes project <a href="https://daily-mindfulness-quotes.netlify.app/">click here</a> to view.
 
-- <strong>Frontend</strong> Virtual Christmas Fair project <a href="https://virtualchristmasfair.netlify.app/">click here</a> to view.
+- <em>Frontend ~</em> Virtual Christmas Fair project <a href="https://virtualchristmasfair.netlify.app/">click here</a> to view.
 
 <h3 align="left">Connect with me:</h3>
 - 💬 How to reach me: https://linkedin.com/in/donnablu/
