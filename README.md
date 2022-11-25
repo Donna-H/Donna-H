@@ -7,7 +7,7 @@
 
 - 💻My portfolio: [https://donnahussey.com/](https://donnahussey.com/)
 
-- 🎮Fun fact <em>I am a gamer currently playing Horizon Zero Dawn. Looking forward to playing the new Bayonetta 3.</em>
+- 🎮Fun fact <em>I am a gamer currently playing Horizon Zero Dawn and Bayonetta 3.</em>
 
 <h3 align="left">Recent Projects:</h3>
 
